@@ -3,6 +3,8 @@ This repo is a fork of oh-my-zsh original repo including my custom theme and plu
 My custom plugin enables to jump and kill from word to word using alt or ctrl key.
 It works on OSX and linux.
 
+Added a sync upstream scripts in /tools
+
 ======
 
 !https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png!
