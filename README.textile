@@ -1,6 +1,7 @@
-This repo is a fork of oh-my-zsh original repo including my custom theme and zsh config.
+This repo is a fork of oh-my-zsh original repo including my custom theme and plugins.
 
-The aim of this zsh config is to have a zsh shell that behaves the same accross Linux / Linux-ARM / OSX.
+My custom plugin enables to jump and kill from word to word using alt or ctrl key.
+It works on OSX and linux.
 
 ======
 
