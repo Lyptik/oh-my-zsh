@@ -1,3 +1,9 @@
+This repo is a fork of oh-my-zsh original repo including my custom theme and zsh config.
+
+The aim of this zsh config is to have a zsh shell that behaves the same accross Linux / Linux-ARM / OSX.
+
+======
+
 !https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png!
 
 oh-my-zsh is an open source, community-driven framework for managing your ZSH configuration. It comes bundled with a ton of helpful functions, helpers, plugins, themes, and few things that make you shout...
