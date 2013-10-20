@@ -1,6 +1,6 @@
 printf '\033[0;34m%s\033[0m\n' "Syncing upstream Oh My Zsh"
 cd "$ZSH"
-if git checkout master && git fetch upstream && git merge upstream/master
+if git checkout master && git fetch upstream && git merge upstream/master origin/master
 then
   printf '\033[0;32m%s\033[0m\n' '         __                                     __   '
   printf '\033[0;32m%s\033[0m\n' '  ____  / /_     ____ ___  __  __   ____  _____/ /_  '
